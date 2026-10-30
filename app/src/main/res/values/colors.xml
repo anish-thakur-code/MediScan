@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bg_surface">#F6FAFF</color>
+    <color name="primary">#006591</color>
+    <color name="primary_container">#0EA5E9</color>
+    <color name="primary_fixed">#C9E6FF</color>
+    <color name="on_primary_container">#003751</color>
+    <color name="secondary">#006A61</color>
+    <color name="secondary_container">#86F2E4</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="on_surface">#171C20</color>
+    <color name="on_surface_variant">#3E4850</color>
+    <color name="outline">#6E7881</color>
+    <color name="surface_container_low">#F0F4FA</color>
+    <color name="surface_container_lowest">#FFFFFF</color>
+    <color name="glass_bg">#1AFFFFFF</color>
+    <color name="glass_border">#33FFFFFF</color>
+    <color name="badge_safe">#059669</color>
+    <color name="badge_check">#D97706</color>
+    <color name="dark_camera_bg">#12181F</color>
+</resources>

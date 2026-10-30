@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1073853831039",
+    "project_id": "mediscan-8d701",
+    "storage_bucket": "mediscan-8d701.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073853831039:android:cbafd2644439b4795cac4a",
+        "android_client_info": {
+          "package_name": "com.anish.mediscan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBltTkCAuQg_zHtDP_nEm3YpG1zkdlmQVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

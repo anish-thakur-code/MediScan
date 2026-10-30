@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="80dp"
+    android:height="80dp"
+    android:viewportWidth="80"
+    android:viewportHeight="80">
+
+    <!-- Left Half Pill (Cyan/Teal) -->
+    <path
+        android:pathData="M 40,8 A 18,18 0 0,0 22,26 L 22,54 A 18,18 0 0,0 40,72 L 40,8 Z"
+        android:fillColor="#86F2E4" />
+
+    <!-- Right Half Pill (Deep Blue) -->
+    <path
+        android:pathData="M 40,8 L 40,72 A 18,18 0 0,0 58,54 L 58,26 A 18,18 0 0,0 40,8 Z"
+        android:fillColor="#006591" />
+
+    <!-- White Medical Cross -->
+    <path
+        android:pathData="M 37,28 L 43,28 A 1,1 0 0,1 44,29 L 44,37 L 52,37 A 1,1 0 0,1 53,38 L 53,42 A 1,1 0 0,1 52,43 L 44,43 L 44,51 A 1,1 0 0,1 43,52 L 37,52 A 1,1 0 0,1 36,51 L 36,43 L 28,43 A 1,1 0 0,1 27,42 L 27,38 A 1,1 0 0,1 28,37 L 36,37 L 36,29 A 1,1 0 0,1 37,28 Z"
+        android:fillColor="#FFFFFF" />
+</vector>

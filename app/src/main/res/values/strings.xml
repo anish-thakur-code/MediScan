@@ -1,0 +1,150 @@
+<resources>
+    <string name="app_name">MediScan</string>
+    <string name="splash_tagline">Smart Medicine Scanner</string>
+    <string name="get_started">Get Started</string>
+    <string name="splash_footer_hint">Secure &amp; HIPAA Compliant AI Scanner</string>
+    <string name="home_title">MediScan Home</string>
+    <string name="welcome_message">Welcome to MediScan</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="login_subtitle">Sign in to securely access your health records &amp; scans</string>
+    <string name="email_address">Email Address</string>
+    <string name="email_hint">name@example.com</string>
+    <string name="password">Password</string>
+    <string name="password_hint">••••••••</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="remember_device">Remember this device for 30 days</string>
+    <string name="login">Login</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+    <string name="register">Register</string>
+    <string name="hipaa_encryption_notice">End-to-end HIPAA compliant encryption</string>
+    <string name="toggle_password_visibility">Toggle password visibility</string>
+    <string name="create_account">Create Account</string>
+    <string name="register_subtitle">Join MediScan to securely manage your health prescriptions and diagnostic records.</string>
+    <string name="full_name">Full Name</string>
+    <string name="full_name_hint">Dr. Alex Morgan</string>
+    <string name="email_address_org_hint">alex.morgan@hospital.org</string>
+    <string name="password_requirement_hint">Must be at least 8 characters with a number &amp; symbol.</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="confirm_password_hint">Re-enter your password</string>
+    <string name="terms_agreement">I agree to the Terms of Service and Privacy Policy regarding medical data handling.</string>
+    <string name="already_have_account">Already have an account?</string>
+    <string name="hipaa_encrypted_portal_notice">End-to-end encrypted HIPAA compliant medical portal</string>
+    <string name="welcome_back_user">Welcome back</string>
+    <string name="user_greeting">Hello, Sarah 👋</string>
+    <string name="instant_ai_recognition">Instant AI Recognition</string>
+    <string name="scan_your_medicine">Scan Your Medicine</string>
+    <string name="scan_medicine_desc">Point your camera at any pill, bottle, or prescription label to check interactions.</string>
+    <string name="open_live_scanner">Open Live Scanner</string>
+    <string name="daily_health_tip_title">Daily Health Tip</string>
+    <string name="daily_health_tip_desc">Always store medications in a cool, dry place away from direct sunlight.</string>
+    <string name="recent_scans">Recent Scans</string>
+    <string name="view_all">View All</string>
+    <string name="safe">Safe</string>
+    <string name="check">Check</string>
+    <string name="explore_features">Explore Features</string>
+    <string name="interaction_checker">Interaction Checker</string>
+    <string name="interaction_checker_desc">Check drug conflicts</string>
+    <string name="reminders">Reminders</string>
+    <string name="reminders_desc">Dose schedule</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_scan">Scan</string>
+    <string name="nav_history">History</string>
+    <string name="nav_profile">Profile</string>
+    <string name="scan_title">Scanner</string>
+    <string name="history_title">Scan History</string>
+    <string name="scan_placeholder_text">Live Camera Scanner Placeholder</string>
+    <string name="history_placeholder_text">Your Medical Scan History</string>
+    <string name="point_camera_instruction">Point camera at medicine label or barcode</string>
+    <string name="auto_detecting_badge">Auto-detecting pill identifier &amp; barcode</string>
+    <string name="capture_scan">Capture Scan</string>
+    <string name="toggle_flash">Toggle Flash</string>
+    <string name="open_gallery">Open Gallery</string>
+    <string name="result_title">Scan Result</string>
+    <string name="result_placeholder_text">Medication Verification &amp; Details Placeholder</string>
+    <string name="verified_scan_match">Verified Scan · 99.8% Match</string>
+    <string name="medicine_category">Analgesic &amp; Antipyretic</string>
+    <string name="sample_medicine_name">Paracetamol 500mg</string>
+    <string name="sample_medicine_form">Oral Tablet · Fast Acting Formulation</string>
+    <string name="active_time">Active Time</string>
+    <string name="active_time_val">15 - 30 mins</string>
+    <string name="form_title">Form</string>
+    <string name="form_val">Film-coated</string>
+    <string name="primary_uses">Primary Uses</string>
+    <string name="primary_uses_subtitle">Conditions &amp; symptoms treated</string>
+    <string name="pain_relief">Pain Relief</string>
+    <string name="pain_relief_desc">Effective for mild to moderate pain including headaches, muscle aches, and toothaches.</string>
+    <string name="fever_reduction">Fever Reduction</string>
+    <string name="fever_reduction_desc">Lowers high temperature associated with common colds, flu, and viral infections.</string>
+    <string name="recommended_dosage">Recommended Dosage</string>
+    <string name="recommended_dosage_subtitle">Standard adult intake guidelines</string>
+    <string name="standard_dose">Standard Dose</string>
+    <string name="standard_dose_val">1-2 Tablets</string>
+    <string name="standard_dose_desc">Take every 4 to 6 hours as needed for symptoms.</string>
+    <string name="precautions_warnings">Precautions &amp; Warnings</string>
+    <string name="precautions_subtitle">Important safety notices</string>
+    <string name="liver_warning">Liver Health Warning</string>
+    <string name="liver_warning_desc">Do not exceed 4g daily. Consult a physician if you consume alcohol regularly or have pre-existing liver conditions.</string>
+    <string name="side_effects">Side Effects</string>
+    <string name="side_effects_subtitle">Rare or mild reactions</string>
+    <string name="side_effects_desc">Paracetamol is generally well tolerated when taken at recommended doses. Rare side effects may include:</string>
+    <string name="nausea_rare">Nausea (Rare)</string>
+    <string name="dizziness">Dizziness</string>
+    <string name="add_to_cabinet">Add to My Medicine Cabinet</string>
+    <string name="scan_another">Scan Another Medicine</string>
+    <string name="bookmark_save">Save Medicine</string>
+    <string name="search_history_hint">Search past scans...</string>
+    <string name="filter_all">All Scans</string>
+    <string name="filter_favorites">Favorites</string>
+    <string name="filter_prescriptions">Prescriptions</string>
+    <string name="filter_otc">OTC</string>
+    <string name="history_end_title">End of Scan History</string>
+    <string name="history_end_desc">All your scanned medicines are safely stored here for quick reference.</string>
+    <string name="profile_title">Profile</string>
+    <string name="sample_user_name">Sarah Morgan</string>
+    <string name="sample_user_email">sarah.morgan@hospital.org</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="medical_cabinet">My Digital Cabinet</string>
+    <string name="notifications">Notifications &amp; Reminders</string>
+    <string name="privacy_security">Privacy &amp; Security</string>
+    <string name="help_support">Help &amp; Support</string>
+    <string name="logout">Logout</string>
+    <string name="camera_permission_granted">Camera permission granted</string>
+    <string name="camera_permission_denied_msg">Camera permission is required to scan medications</string>
+    <string name="recognizing_text">Recognizing text...</string>
+    <string name="extracted_text_title">Extracted OCR Text</string>
+    <string name="no_text_detected">No text detected from image scan. Try taking a clearer photo of the medicine label.</string>
+    <string name="fetching_fda_info">Fetching OpenFDA medicine details...</string>
+    <string name="medicine_not_found_msg">Medicine not found — please try scanning again</string>
+    <string name="no_scans_yet">No scans yet</string>
+    <string name="no_scans_yet_desc">Your scanned medicines will appear here.</string>
+    <string name="toggle_scan_medicine">📷 Scan Medicine</string>
+    <string name="toggle_search_medicine">🔍 Search Medicine</string>
+    <string name="manual_search_title">Manual Medicine Search</string>
+    <string name="manual_search_desc">Type any medicine name to retrieve detailed AI information.</string>
+    <string name="search_medicine_hint">Type medicine name (e.g. Paracetamol, Dolo 650)...</string>
+    <string name="recent_scans_empty">Your recent scans will appear here</string>
+
+    <string-array name="health_tips">
+        <item>Always store medications in a cool, dry place away from direct sunlight.</item>
+        <item>Always check the expiration date on medicine packages before consumption.</item>
+        <item>Never share your prescribed medicines with family or friends.</item>
+        <item>Always read the medicine package label carefully for important instructions.</item>
+        <item>Do not consume alcohol while taking medications to avoid severe reactions.</item>
+        <item>Store all medicines safely out of reach and sight of young children.</item>
+        <item>Complete your full course of antibiotics even if you start feeling better.</item>
+        <item>Consult your physician before stopping any long-term prescription medication.</item>
+        <item>Inform your doctor or pharmacist about any known drug allergies you have.</item>
+        <item>Drink plenty of water when swallowing oral tablets and capsules.</item>
+        <item>Keep medicines in their original packaging to avoid confusion.</item>
+        <item>Do not crush or break enteric-coated or sustained-release tablets.</item>
+        <item>Store liquid syrups in an upright position and use the provided measuring cap.</item>
+        <item>Dispose of expired or leftover medications safely according to guidelines.</item>
+        <item>Take your medications at the same scheduled time every day for best results.</item>
+        <item>Never double your dose if you accidentally miss a scheduled medicine.</item>
+        <item>Check if your medicine should be taken before or after meals.</item>
+        <item>Keep an updated physical list of all your current active medications.</item>
+        <item>Avoid storing medicines in bathroom cabinets due to heat and humidity.</item>
+        <item>Always double-check medicine names if you receive a new refill.</item>
+    </string-array>
+</resources>
